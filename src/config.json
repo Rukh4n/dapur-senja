@@ -1,0 +1,68 @@
+{
+  "ukuranTeks": 16,
+  "warna": "#c2410c",
+  "nama": "Dapur Senja",
+  "whatsapp": "6281234567890",
+  "pesanWA": "Halo Dapur Senja, saya mau pesan",
+  "instagram": "@dapursenja",
+  "alamat": "Jl. Contoh Raya No. 12, Jakarta Selatan",
+  "menuNav": ["Kopi", "Pasta", "Burger", "Nasi dan Don", "Camilan"],
+  "tautanNav": ["Lokasi", "Promo", "Cerita", "Reservasi"],
+  "slide": [
+    { "judul": "Pasta Bolognese Hangat", "sub": "Saus daging gurih, disajikan panas di piring besar.", "tombol": "Pesan sekarang", "foto": "spaghetti.jpg" },
+    { "judul": "Burger Senja Klasik", "sub": "Roti wijen, daging juicy, keju leleh. Puas dalam satu gigitan.", "tombol": "Pesan burger", "foto": "burger.jpg" },
+    { "judul": "Kopi Hitam Tanpa Basa-basi", "sub": "Seduhan bersih dan harum untuk menemani sorenya.", "tombol": "Lihat menu kopi", "foto": "kopi.jpg" }
+  ],
+  "kategoriJudul": "Mau makan apa hari ini?",
+  "kategori": [["Kopi", "kopi"], ["Pasta", "pasta"], ["Burger", "burger"], ["Nasi dan Don", "don"], ["Camilan", "camilan"], ["Sosis", "sosis"]],
+  "terbaruJudul": "Menu Terbaru",
+  "terbaruSub": "Racikan baru dari dapur kami, siap menemani makan siangmu.",
+  "terbaru": [
+    { "nama": "Pasta Seafood", "harga": "Rp48.000", "foto": "pasta.jpg", "tombol": "Pesan" },
+    { "nama": "Kaisen Don", "harga": "Rp65.000", "foto": "seafood.jpg", "tombol": "Pesan" },
+    { "nama": "Spaghetti Bolognese", "harga": "Rp42.000", "foto": "spaghetti.jpg", "tombol": "Pesan" },
+    { "nama": "Currywurst", "harga": "Rp38.000", "foto": "sosis.jpg", "tombol": "Pesan" }
+  ],
+  "signatureJudul": "Andalan Dapur Senja",
+  "signature": [
+    { "nama": "Burger Senja Klasik", "harga": "Rp45.000", "deskripsi": "Roti wijen empuk • Daging sapi juicy • Keju leleh • Selada dan tomat segar. Porsinya bikin kenyang sampai sore.", "foto": "burger.jpg" },
+    { "nama": "Nugget Ayam dan Kentang", "harga": "Rp32.000", "deskripsi": "Nugget garing di luar, lembut di dalam • Kentang goreng renyah • Saus tomat dan mayo. Pas untuk berdua.", "foto": "nuggets.jpg" }
+  ],
+  "pilihanJudul": "Pilihan pas untuk setiap momen.",
+  "pilihan": [
+    { "nama": "Teman kerja seharian", "deskripsi": "Kopi hitam bersih dan harum, ditambah Wi-Fi kencang dan colokan di tiap meja.", "foto": "kopi.jpg", "tombol": "Lihat kopi" },
+    { "nama": "Ngemil bareng", "deskripsi": "Nugget dan kentang goreng satu piring besar untuk dimakan ramai-ramai.", "foto": "nuggets.jpg", "tombol": "Lihat camilan" },
+    { "nama": "Makan malam santai", "deskripsi": "Pasta seafood dengan udang dan kerang, disajikan hangat di meja Anda.", "foto": "pasta.jpg", "tombol": "Lihat pasta" }
+  ],
+  "fitur": {
+    "judul": "Kenyang Hemat Pilihanmu",
+    "teks": "Paket siang: satu menu utama plus kopi hitam. Lebih hemat dan langsung kenyang.",
+    "chips": ["Menu utama pilihan", "Kopi hitam", "Mulai Rp55.000", "Buka 10.00"],
+    "foto": "seafood.jpg",
+    "samping": { "nama": "Paket Siang Dapur Senja", "deskripsi": "Burger atau pasta pilihanmu plus kopi hitam, hanya Rp55.000.", "foto": "kopi.jpg", "tombol": "Pesan paket" }
+  },
+  "jaminan": [
+    ["bintang", "Bahan Segar", "Dipilih setiap pagi dari pemasok terpercaya"],
+    ["perisai", "Dapur Higienis", "Dimasak bersih, disajikan hangat"],
+    ["kotak", "Pesan Antar", "Makan di tempat, dibawa pulang, atau diantar"]
+  ],
+  "dukungan": {
+    "judul": "Mampir atau pesan dari rumah",
+    "kiri": ["Lokasi Kami", "Temukan Dapur Senja di dekatmu.", "Buka peta"],
+    "kanan": ["Reservasi Meja", "Rayakan ulang tahun atau kumpul keluarga bersama kami.", "Reservasi"]
+  },
+  "beritaJudul": "Cerita dari Dapur Kami",
+  "berita": [
+    { "judul": "Rahasia Saus Bolognese yang Dimasak Pelan", "tanggal": "6 November 2026", "foto": "spaghetti.jpg" },
+    { "judul": "Kenapa Kopi Hitam Cocok Menemani Kerja?", "tanggal": "5 November 2026", "foto": "kopi.jpg" },
+    { "judul": "Cara Memilih Kentang Goreng yang Selalu Renyah", "tanggal": "3 November 2026", "foto": "nuggets.jpg" }
+  ],
+  "footerAlamat": "Kafe dan dapur untuk semua suasana hati.",
+  "footer": [
+    ["Menu", ["Kopi", "Pasta", "Burger", "Nasi dan Don", "Camilan"]],
+    ["Layanan", ["Reservasi", "Pesan Antar", "Katering", "Voucher"]],
+    ["Informasi", ["Tentang Kami", "Cerita", "Karier", "Kontak"]],
+    ["Kebijakan", ["Privasi", "Syarat dan Ketentuan"]],
+    ["Ikuti Kami", ["Instagram", "Facebook", "TikTok", "YouTube"]]
+  ]
+}
